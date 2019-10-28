@@ -1,0 +1,1066 @@
+# Translation of Themes - IsleMag in Russian
+# This file is distributed under the same license as the Themes - IsleMag package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-04-29 11:13:47+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - IsleMag\n"
+
+#. Description of the theme
+msgid "A modern and clean free WordPress theme for tech magazines, news and newspaper media websites, personal fashion blogs, or photography, IsleMag is responsive, flat, minimalist, SEO friendly, Retina ready, built with Bootstrap, and has social links. Released in 2016, the theme has Google AdSense banners, a magazine homepage template, custom backgrounds, filtered categories, tags, boxed layout, and live customizer. IsleMag is WPML, Photo Gallery Grid,Contact Form 7,WP Product Review, SiteOrigin Page Builder, JetPack compatible, the theme is highly customizable and translation ready."
+msgstr "Современная и простая бесплатная WordPress тема для технологического журнала, новостных и медийных изданий, персонального блога о моде или фотографии. IsleMag это тема с адаптивным, плоским, минималистским дизайном, дружественная с SEO, подготовленная для Retina, основанная на Bootstrap и с ссылками на социальные сети. Созданная в 2016 году, тема имеет Google AdSense баннеры, шаблон начальной страницы журнала, настраиваемый задний фон, фильтр категорий, тэги, блоковый макет и настройщик в реальном времени. IsleMag это WPML, Photo Gallery Grid,Contact Form 7,WP Product Review, SiteOrigin Page Builder, JetPack совместимая, тема полностью настраиваемая подготовлена к переводу."
+
+#. Theme Name of the theme
+msgid "IsleMag"
+msgstr "IsleMag"
+
+#: template-parts/content-template4.php:91
+#: template-parts/content-template4.php:165
+#: template-parts/content-template3.php:174
+#: template-parts/content-template3.php:251
+#: template-parts/content-template3.php:325
+#: template-parts/content-template2.php:88
+msgid "1 Comment"
+msgstr "1 комментарий"
+
+#: template-parts/content-template4.php:91
+#: template-parts/content-template4.php:165
+#: template-parts/content-template3.php:174
+#: template-parts/content-template3.php:251
+#: template-parts/content-template3.php:325
+#: template-parts/content-template2.php:88
+msgid "0 Comments"
+msgstr "0 комментариев"
+
+#: inc/customizer.php:699
+msgid "Footer copyright"
+msgstr "Авторское право в подвале"
+
+#: inc/customizer.php:555
+msgid "Display randomly the posts"
+msgstr "Показывать записи в случайном порядке"
+
+#. translators: %s: post title
+#: inc/extras.php:81
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Одна мысль про &ldquo;%s&rdquo;"
+
+#: inc/customizer.php:37
+msgid "Use a different custom template as frontpage?"
+msgstr "Использовать другой пользовательский шаблон в качестве главной страницы?"
+
+#: inc/class/islemag-info.php:54
+msgid "Leave a review"
+msgstr "Оставить отзыв"
+
+#: inc/class/islemag-info.php:46
+msgid "Demo"
+msgstr "Демо"
+
+#: inc/class/islemag-info.php:42
+msgid "Documentation"
+msgstr "Документация"
+
+#: inc/customizer.php:533 inc/customizer.php:581
+msgid "Disable section"
+msgstr "Выключить раздел"
+
+#: template-parts/content-single.php:140
+msgid "Post Author:"
+msgstr "Автор записи:"
+
+#: inc/admin/welcome-screen/welcome-screen.php:211
+msgid "Changelog"
+msgstr "Изменения"
+
+#: inc/admin/welcome-screen/welcome-screen.php:210
+msgid "Contribute"
+msgstr "Сделать вклад"
+
+#: inc/admin/welcome-screen/welcome-screen.php:209
+msgid "Actions required"
+msgstr "Необходимы действия"
+
+#: inc/customizer.php:50 inc/class/islemag-info.php:50
+msgid "View theme info"
+msgstr "Просмотреть информацию о теме"
+
+#: inc/admin/welcome-screen/welcome-screen.php:68
+msgid "Get started with %s"
+msgstr "Начните с %s"
+
+#: inc/admin/welcome-screen/welcome-screen.php:67
+msgid "Welcome! Thank you for choosing %1$s! To fully take advantage of the best our theme can offer please make sure you visit our %2$swelcome page%3$s."
+msgstr "Добро пожаловать! Спасибо что выбрали %1$s! Для того, чтобы в полной мере воспользоваться преимуществами нашей лучшей темы, пожалуйста, убедитесь, что вы посетили нашу  %2$sСтраницу приветствия%3$s."
+
+#: inc/admin/welcome-screen/sections/github.php:38
+msgid "Rate our theme on %1$sWordPress.org%2$s. We'd really appreciate it!"
+msgstr "Оцените тему на %1$sWordPress.org%2$s. Мы будем очень признательны за это!"
+
+#: inc/admin/welcome-screen/sections/github.php:36
+msgid "Are you enjoying %s?"
+msgstr "Вам нравится %s?"
+
+#: inc/admin/welcome-screen/sections/github.php:27
+msgid "Get involved at WordPress.org."
+msgstr "Присоединяйтесь на WordPress.org."
+
+#: inc/admin/welcome-screen/sections/github.php:25
+msgid "Are you a polyglot? Want to translate %s into your own language?"
+msgstr "Вы полиглот? Хотите перевести %s на ваш родной язык?"
+
+#: inc/admin/welcome-screen/sections/github.php:19
+msgid "%s on GitHub"
+msgstr "%s на GitHub"
+
+#: inc/admin/welcome-screen/sections/github.php:16
+msgid "GitHub is the place to go!"
+msgstr "GitHub лучшее место для этого!"
+
+#: inc/admin/welcome-screen/sections/github.php:14
+msgid "Found a bug? Want to contribute with a fix or create a new feature?"
+msgstr "Обнаружили проблему? Хотите внести свой вклад с исправлением или создать новую функцию?"
+
+#: inc/admin/welcome-screen/sections/github.php:9
+msgid "How can I contribute?"
+msgstr "Как я могу помочь?"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:238
+msgid "Install Revive Old Post"
+msgstr "Установить Revive Old Post"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:228
+msgid "A plugin to share about your old posts on twitter, facebook, linkedin to get more hits for them and keep them alive."
+msgstr "Плагин служит для публикации ваших старых записей в twitter, facebook, linkedin для увеличения переходов и поддержки их в активном состоянии."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:227
+msgid "Revive Old Post"
+msgstr "Revive Old Post"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:218
+msgid "Download Easy Content Types"
+msgstr "Скачать Easy Content Types"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:208
+msgid "Custom Post Types, Taxonomies and Metaboxes in Minutes"
+msgstr "Настраиваемые типы записей, таксономий и метабоксов за минуты"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:207
+msgid "Easy Content Types"
+msgstr "Easy Content Types"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:198
+msgid "Install Visualizer"
+msgstr "Установить Visualizer"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:188
+msgid "A simple, easy to use and quite powerful chart tool to create, manage and embed interactive charts into your WordPress posts and pages."
+msgstr "Простой, доступный и очень мощная диаграмм утилита для создания, управления и вставки интерактивных диаграмм в ваши WordPress страницы и записи."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:187
+msgid "Visualizer: Charts and Graphs"
+msgstr "Visualizer: Диаграммы и графики"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:114
+#: inc/admin/welcome-screen/sections/getting-started.php:257
+msgid "Install"
+msgstr "Установить"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:175
+msgid "Install Custom Login Customizer"
+msgstr "Установить настройщик Custom Login"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:165
+msgid "Login Customizer plugin allows you to easily customize your login page straight from your WordPress Customizer! You can preview your changes before you save them!"
+msgstr "Плагин Login Customizer позволит вам легко настроить страницу входа прямо с Настройщика Wordpress! Вы можете посмотреть на изменения перед тем как их сохранить!"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:164
+msgid "Custom Login Customizer"
+msgstr "Настройщик Custom Login"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:154
+msgid "Install WP Product Review"
+msgstr "Установить WP Обзор товаров"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:144
+msgid "Easily turn your basic posts into in-depth reviews with ratings, pros and cons, affiliate links, rich snippets and user reviews."
+msgstr "Очень просто превратить ваши записи в детальные обзоры с рейтингами, плюсами и минусами, партнерскими ссылками, насыщенные цитатами и отзывами пользователей."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:143
+msgid "WP Product Review"
+msgstr "WP Обзор товаров"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:133
+msgid "Install Page Builder by SiteOrigin"
+msgstr "Установить Page Builder от SiteOrigin"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:108
+#: inc/admin/welcome-screen/sections/getting-started.php:127
+#: inc/admin/welcome-screen/sections/getting-started.php:148
+#: inc/admin/welcome-screen/sections/getting-started.php:169
+#: inc/admin/welcome-screen/sections/getting-started.php:192
+#: inc/admin/welcome-screen/sections/getting-started.php:212
+#: inc/admin/welcome-screen/sections/getting-started.php:232
+#: inc/admin/welcome-screen/sections/getting-started.php:251
+msgid "Already activated"
+msgstr "Уже активировано"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:123
+msgid "Build responsive page layouts using the widgets you know and love using this simple drag and drop page builder."
+msgstr "Создайте адаптивный внешний вид страницы используя знакомые виджеты и используя  drag&drop настройщик страниц."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:122
+msgid "Page Builder by SiteOrigin"
+msgstr "Page Builder от SiteOrigin"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:97
+msgid "Recommended plugins"
+msgstr "Рекомендованные плагины"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:90
+msgid "Read full documentation"
+msgstr "Читать полную документацию"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:89
+msgid "Need more details? Please check our full documentation for detailed information on how to use %s."
+msgstr "Необходимо больше деталей? Пожалуйста, ознакомьтесь с нашей полной документацией для подробной информации по пользованию %s."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:88
+msgid "View full documentation"
+msgstr "Просмотр полной документации"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:74
+msgid "Read more"
+msgstr "Читать больше"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:73
+msgid " At the address below you will find a cool set of original WordPress plugins that can give you great benefits despite being a little lesser known out there."
+msgstr "По ссылке ниже вы найдете отличный набор оригинальных WordPress плагинов, которые могут предоставить вам большие преимущества, несмотря на небольшую их известность."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:72
+msgid "30 Experts Share: The Top *Non-Obvious* WordPress Plugins That'll Make You a Better Blogger"
+msgstr "30 Experts Share: Один из топ *Non-Obvious* WordPress плагинов, который поможет вам стать лучшим блогером"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:67
+msgid "If you find yourself in the situation where everything on your site is running very slow, you might consider having a look at the below documentation where you will find the most common issues causing this and possible solutions for each of the issues."
+msgstr "Если вы окажетесь в ситуации, когда все на вашем сайте начнет работать очень медленно, рекомендуем вам ознакомиться с документацией ниже, где вы найдете наиболее распространенные причины этих проблем и возможные варианты решения этих вопросов."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:66
+msgid "Speed up your site"
+msgstr "Ускорьте ваш сайт"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:59
+msgid "In the below documentation you will find an easy way to translate %s into your native language or any other language you need for you site."
+msgstr "В документации ниже вы найдете простой способ перевода %s на ваш родной язык или любой другой язык который необходим вам на сайте."
+
+#: inc/admin/welcome-screen/sections/github.php:30
+#: inc/admin/welcome-screen/sections/getting-started.php:58
+msgid "Translate %s"
+msgstr "Перевести %s"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:53
+msgid "In the below documentation you will find an easy way to build a great looking landing page using a drag-and-drop content builder plugin."
+msgstr "В документации ниже вы найдете простой способ создания красивой посадочной страницы используя плагин drag-and-drop настройщик содержания."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:52
+msgid "Build a landing page with a drag-and-drop content builder"
+msgstr "Создайте посадочную страницу с drag-and-drop настройщика содержания"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:48
+#: inc/admin/welcome-screen/sections/getting-started.php:54
+#: inc/admin/welcome-screen/sections/getting-started.php:60
+#: inc/admin/welcome-screen/sections/getting-started.php:68
+#: inc/admin/welcome-screen/sections/getting-started.php:78
+msgid "View how to do this"
+msgstr "Посмотреть, как это сделать"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:47
+msgid "If you want to make changes to the theme's files, those changes are likely to be overwritten when you next update the theme. In order to prevent that from happening, you need to create a child theme. For this, please follow the documentation below."
+msgstr "Если вы хотите внести изменения в файлы темы, эти изменения, вероятно будут изменены при следующем обновлении темы. Для того, чтобы не допустить этого, необходимо создать дочернюю тему. Для этого, пожалуйста, следуйте указаниям в документации ниже."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:46
+msgid "Create a child theme"
+msgstr "Создать дочернюю тему"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:40
+msgid "FAQ"
+msgstr "ЧАВО"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:32
+msgid "Go to Customizer"
+msgstr "Перейти к настройкам"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:31
+msgid "Using the WordPress Customizer you can easily customize every aspect of the theme."
+msgstr "Используя средства настройки WordPress вы можете легко настроить каждый аспект темы."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:30
+msgid "Customize everything in a single place."
+msgstr "Настроить все в одном месте."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:28
+#: inc/admin/welcome-screen/welcome-screen.php:208
+msgid "Getting started"
+msgstr "Начало работы"
+
+#: inc/admin/welcome-screen/sections/getting-started.php:20
+msgid "We want to make sure you have the best experience using %1$s and that is why we gathered here all the necessary informations for you. We hope you will enjoy using %2$s, as much as we enjoy creating great products."
+msgstr "Мы хотим быть уверенными, что вы получите хороший опыт от использования %1$s и поэтому мы собрали здесь всю необходимую для вас информацию. Мы надеемся, что вы будете наслаждаться работой с %2$s, так же, как нам нравится создавать отличные продукты."
+
+#: inc/admin/welcome-screen/sections/getting-started.php:19
+msgid "Our best free one page magazine WordPress theme, %s!"
+msgstr "Наша лучшая одностраничная WordPress тема для журнала - %s!"
+
+#: inc/admin/welcome-screen/sections/actions-required.php:84
+#: inc/admin/welcome-screen/welcome-screen.php:108
+msgid "Hooray! There are no required actions for you right now."
+msgstr "Ура! Нет необходимых действий для вас сейчас."
+
+#: inc/admin/welcome-screen/sections/actions-required.php:9
+msgid "Keep up with %s's latest news"
+msgstr "Будьте в курсе последних новостей от %s"
+
+#: functions.php:173
+msgid "Switch \"Front page displays\" to \"A static page\""
+msgstr "Переключите \"Отображение начальной страницы\" на \"Статическая страница\"."
+
+#: functions.php:174
+msgid "In order to have the one page look for your website, please go to Customize -> Static Front Page and switch \"Front page displays\" to \"A static page\". Then select the template \"Frontpage\" for that selected page."
+msgstr "В случае, если вам необходимо установить вид одной страницы для вашего сайта, пожалуйста, перейдите в Настройки -> Статическая начальная страница и переключите \"Отображение начальной страницы\" на \"Статическая страница\". Затем выберите шаблон \"Начальная страница\" для выбранной страницы."
+
+#: sidebar.php:41
+msgid "Banner Widget Example"
+msgstr "Пример виджета Banner"
+
+#. translators: Widgets area editing link
+#: sidebar.php:28
+msgid "This is an example widget to show how the Sidebar looks by default. You can add custom widgets from the %1$swidgets screen%1$s in the admin. If custom widgets is added than this will be replaced by those widgets."
+msgstr "Этот пример виджета для показа того, как выглядит боковая панель по умолчанию. Вы можете добавить пользовательские виджеты с %1$sстраницы виджетов%1$s в панели администрирования. Если пользовательские виджеты добавятся, то они заменят текущий виджет."
+
+#: sidebar.php:26
+msgid "Example Widget"
+msgstr "Пример виджета"
+
+#. Template Name of the theme
+msgid "Full Width"
+msgstr "Полноэкранная"
+
+#. translators: About title of the post
+#: template-parts/content.php:93
+msgid "about "
+msgstr "про"
+
+#. translators: About title of the post
+#: template-parts/content.php:93
+msgid "Read more %s ..."
+msgstr "Читать дальше %s ..."
+
+#: template-parts/content-template4.php:94
+#: template-parts/content-template4.php:168
+#: template-parts/content-template3.php:177
+#: template-parts/content-template3.php:254
+#: template-parts/content-template3.php:328
+#: template-parts/content-template2.php:91
+msgid "Posted By"
+msgstr "Написано"
+
+#: template-parts/content-template4.php:68
+#: template-parts/content-template4.php:143
+#: template-parts/content-template3.php:86
+#: template-parts/content-template3.php:151
+#: template-parts/content-template3.php:228
+#: template-parts/content-template3.php:302
+#: template-parts/content-template1.php:74
+#: template-parts/content-template2.php:63
+msgid "Rating:"
+msgstr "Рейтинг:"
+
+#: template-parts/content-single.php:277
+msgid "Read More"
+msgstr "Читать дальше"
+
+#: template-parts/content-single.php:261
+msgid "Show more categories"
+msgstr "Показать больше категорий"
+
+#: template-parts/content-single.php:164
+msgid "Related Posts"
+msgstr "Похожие записи"
+
+#: template-parts/content-single.php:125
+msgid "by"
+msgstr "от"
+
+#: template-parts/content-single.php:122
+msgid "% Responses"
+msgstr "% отзывов"
+
+#: template-parts/content-single.php:122
+msgid "One Response"
+msgstr "Один отзыв"
+
+#: template-parts/content-single.php:122
+msgid "No Responses"
+msgstr "Нет отзывов"
+
+#: template-parts/content-single.php:103
+msgid "Categories:"
+msgstr "Категории:"
+
+#: template-parts/content-single.php:90 template-parts/content-page.php:22
+#: template-parts/content-search.php:86 template-parts/content.php:102
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: template-parts/content-none.php:50
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Похоже мы не можем найти то, что вы ищите. Возможно вам стоит воспользоваться поиском."
+
+#: template-parts/content-none.php:43
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Простите, но ничего не найдено по вашему запросу. Пожалуйста, попробуйте еще раз изменив запрос."
+
+#. translators: Add new post link
+#: template-parts/content-none.php:28
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать вашу первую запись? <a href=\"%1$s\">Начните тут</a>."
+
+#: template-parts/content-none.php:16
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: functions.php:748
+msgid "Ads Area 5"
+msgstr "Рекламный блок 5"
+
+#: functions.php:743
+msgid "Ads Area 4"
+msgstr "Рекламный блок 4"
+
+#: functions.php:737
+msgid "Ads Area 3"
+msgstr "Рекламный блок 3"
+
+#: functions.php:732
+msgid "Ads Area 2"
+msgstr "Рекламный блок 2"
+
+#: functions.php:727
+msgid "Ads Area 1"
+msgstr "Рекламный блок 1"
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search in here..."
+msgstr "Искать тут..."
+
+#: searchform.php:11 searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr "Искать:"
+
+#. translators: Search query
+#: search.php:30
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:78 template-parts/content-page.php:33
+msgid "Edit %s"
+msgstr "Редактировать %s"
+
+#: inc/template-tags.php:70 template-parts/content-template4.php:91
+#: template-parts/content-template4.php:165
+#: template-parts/content-template3.php:174
+#: template-parts/content-template3.php:251
+#: template-parts/content-template3.php:325
+#: template-parts/content-template2.php:88
+msgid "% Comments"
+msgstr "% комментариев"
+
+#: inc/template-tags.php:70
+msgid "Comment"
+msgstr "Комментарий"
+
+#: inc/template-tags.php:70
+msgid "Leave a comment"
+msgstr "Оставьте комментарий"
+
+#. translators: tags list
+#: inc/template-tags.php:64
+msgid "Tagged: %1$s"
+msgstr "Отмечено: %1$s"
+
+#. translators: Categories list
+#: inc/template-tags.php:57
+msgid "Posted in: %1$s"
+msgstr "Опубликовано в: %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:54 inc/template-tags.php:61
+msgid ", "
+msgstr ", "
+
+#. translators: Author link
+#: inc/template-tags.php:36
+msgctxt "post author"
+msgid "by %s"
+msgstr " %s"
+
+#. translators: Posted date
+#: inc/template-tags.php:30
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Опубликовано %s"
+
+#: inc/customizer.php:729
+msgid "Socials title"
+msgstr "Названия социальных сетей"
+
+#: inc/customizer.php:720
+msgid "Footer content"
+msgstr "Содержание нижнего блока"
+
+#: inc/customizer.php:718
+msgid "Allowed HTML tags: <p>, <br>, <em>, <strong>, <ul>, <li>, <a>, <button>, <address>, <abbr>"
+msgstr "Разрешенные HTML тэги: <p>, <br>, <em>, <strong>, <ul>, <li>, <a>, <button>, <address>, <abbr>"
+
+#: inc/customizer.php:709
+msgid "If not set, the footer logo will point to homepage url."
+msgstr "Если не задано, ссылка логотипа в нижнем блоке будет вести на домашнюю страницу."
+
+#: inc/customizer.php:708
+msgid "Footer logo link"
+msgstr "Ссылка логотипа нижнего блока"
+
+#: inc/customizer.php:689
+msgid "Footer logo"
+msgstr "Логотип в нижнем блоке"
+
+#: inc/customizer.php:678
+msgid "If you check this box, the thumbnail will disappear from single page."
+msgstr "Если вы отметите этот чекбокс, миниатюра будет скрыта на одиночной странице."
+
+#: inc/customizer.php:677
+msgid "Hide post thumbnail on single page?"
+msgstr "Скрыть миниатюру записи на одиночной странице?"
+
+#: inc/customizer.php:667
+msgid "If you check this box, related posts will disappear from single page."
+msgstr "Если вы отметите этот чекбокс, похожие записи будут скрыты на одиночной странице."
+
+#: inc/customizer.php:666
+msgid "Hide related posts?"
+msgstr "Скрыть похожие записи?"
+
+#: inc/customizer.php:656
+msgid "If you check this box, the author's description will disappear from single page."
+msgstr "Если вы отметите этот чекбокс, описание автора будет скрыто на одиночной странице."
+
+#: inc/customizer.php:655
+msgid "Hide author's description?"
+msgstr "Скрыть описание автора?"
+
+#: inc/customizer.php:638
+msgid "Number of posts in each slide"
+msgstr "Количество постов в каждом слайде"
+
+#: inc/customizer.php:592
+msgid "If you check this box and you have a sidebar, the section will be displayed after the sidebar"
+msgstr "Если вы отметите этот чекбокс и у вас есть боковая панель, блок будет отображаться после боковой панели"
+
+#: inc/customizer.php:591
+msgid "Full width section"
+msgstr "Полноэкранный блок"
+
+#: inc/customizer.php:565 inc/customizer.php:623
+msgid "To display all posts, set this field to -1."
+msgstr "Для отображения всех записей, установите значение -1."
+
+#: inc/customizer.php:564 inc/customizer.php:622
+msgid "Number of posts in this section"
+msgstr "Количество записей в этом блоке"
+
+#: inc/customizer.php:544 inc/customizer.php:612
+#: template-parts/content-template4.php:42
+#: template-parts/content-template4.php:117
+#: template-parts/content-template3.php:43
+#: template-parts/content-template3.php:126
+#: template-parts/content-template3.php:202
+#: template-parts/content-template3.php:276
+msgid "Category"
+msgstr "Категория"
+
+#: inc/customizer.php:523
+msgid "Disable sticky menu"
+msgstr "Отключить прилипающее меню"
+
+#: inc/customizer.php:510 inc/customizer.php:740
+msgid "Add new social icon"
+msgstr "Добавить новую иконку социальной сети"
+
+#: inc/customizer.php:498
+msgid "Section's posts text color"
+msgstr "Цвет текста записей в блоках"
+
+#: inc/customizer.php:486
+msgid "Section's posts title color"
+msgstr "Цвет заголовка записей в блоках"
+
+#: inc/customizer.php:474
+msgid "Top slider's posts text color"
+msgstr "Цвет текста записей в слайдере шапки"
+
+#: inc/customizer.php:462
+msgid "Top slider's posts title color"
+msgstr "Цвет заголовка записей в слайдере шапки"
+
+#: inc/customizer.php:450
+msgid "Title color"
+msgstr "Цвет заголовка"
+
+#: inc/customizer.php:178
+msgid "Single post settings"
+msgstr "Настройки одиночной записи"
+
+#: inc/customizer.php:169 inc/customizer.php:315 functions.php:747
+msgid "Section 5"
+msgstr "Раздел 5"
+
+#: inc/customizer.php:160 inc/customizer.php:304 functions.php:742
+msgid "Section 4"
+msgstr "Раздел 4"
+
+#: inc/customizer.php:151 inc/customizer.php:301 functions.php:736
+msgid "Section 3"
+msgstr "Раздел 3"
+
+#: inc/customizer.php:142 inc/customizer.php:298 functions.php:731
+msgid "Section 2"
+msgstr "Раздел 2"
+
+#: inc/customizer.php:133 inc/customizer.php:295 functions.php:726
+msgid "Section 1"
+msgstr "Раздел 1"
+
+#: inc/customizer.php:124
+msgid "Header slider"
+msgstr "Слайдер шапки"
+
+#: inc/customizer.php:115
+msgid "Islemag header content"
+msgstr "Содержание шапки Islemag"
+
+#: inc/customizer.php:114
+msgid "Header content"
+msgstr "Содержание шапки"
+
+#: inc/customizer.php:105
+msgid "Header top bar"
+msgstr "Верхняя панель шапки"
+
+#: inc/customizer.php:93
+msgid "Frontpage sections"
+msgstr "Блок начальной страницы"
+
+#: inc/customizer.php:84
+msgid "Header"
+msgstr "Заголовок"
+
+#: inc/customizer.php:19
+msgid "Text color"
+msgstr "Цвет текста"
+
+#: inc/class/islemag-widget-multiple-ads.php:155
+msgid "Recommended size: 125 x 125 px"
+msgstr "Рекомендуемый размер: 125 x 125 px"
+
+#: inc/class/islemag-widget-content-ad.php:157
+msgid "234 x 60 px"
+msgstr "234 x 60 px"
+
+#: inc/class/islemag-widget-content-ad.php:156
+msgid "468 x 60 px"
+msgstr "468 x 60 px"
+
+#: inc/class/islemag-widget-content-ad.php:154
+msgid "728 x 90 px"
+msgstr "728 x 90 px"
+
+#: inc/class/islemag-widget-multiple-ads.php:240
+#: inc/class/islemag-widget-content-ad.php:220
+#: inc/class/islemag-widget-big-ad.php:248
+msgid "Code:"
+msgstr "Код:"
+
+#: inc/class/islemag-widget-multiple-ads.php:224
+#: inc/class/islemag-widget-content-ad.php:203
+#: inc/class/islemag-widget-big-ad.php:232
+msgid "Image:"
+msgstr "Изображение:"
+
+#: inc/class/islemag-widget-content-ad.php:192
+#: inc/class/islemag-widget-big-ad.php:223
+msgid "Open in new tab"
+msgstr "Открыть в новой вкладке"
+
+#: inc/class/islemag-widget-multiple-ads.php:183
+#: inc/class/islemag-widget-big-ad.php:183
+msgid "Alt Title"
+msgstr "Атрибут alt"
+
+#: inc/class/islemag-widget-big-ad.php:178
+msgid "250 x 250 px"
+msgstr "250 x 250 px"
+
+#: inc/class/islemag-widget-big-ad.php:177
+msgid "300 x 600 px"
+msgstr "300 x 600 px"
+
+#: inc/class/islemag-widget-content-ad.php:155
+#: inc/class/islemag-widget-big-ad.php:176
+msgid "300 x 100 px"
+msgstr "300 x 100 px"
+
+#: inc/class/islemag-widget-big-ad.php:175
+msgid "300 x 250 px"
+msgstr "300 x 250 px"
+
+#: inc/class/islemag-widget-content-ad.php:153
+#: inc/class/islemag-widget-big-ad.php:174
+msgid "Recommended sizes:"
+msgstr "Рекомендуемый размер:"
+
+#: inc/class/islemag-widget-multiple-ads.php:175
+#: inc/class/islemag-widget-content-ad.php:148
+#: inc/class/islemag-widget-big-ad.php:169
+msgid "Advertisement "
+msgstr "Реклама"
+
+#: inc/customizer.php:601 inc/class/islemag-widget-multiple-ads.php:146
+#: inc/class/islemag-widget-big-ad.php:153
+msgid "Title"
+msgstr "Заголовок"
+
+#: inc/customizer-repeater/islemag-general-control.php:128
+msgid "Add new field"
+msgstr "Добавить новое поле"
+
+#: inc/customizer-repeater/islemag-general-control.php:196
+#: inc/customizer-repeater/islemag-general-control.php:228
+msgid "Delete field"
+msgstr "Удалить поле"
+
+#: inc/customizer-repeater/islemag-general-control.php:262
+msgid "Icon"
+msgstr "Иконка"
+
+#: inc/class/islemag-category-selector.php:37
+msgid "All"
+msgstr "Все"
+
+#: inc/class/islemag-banner-control.php:112
+#: inc/class/islemag-banner-control.php:118
+msgid "Recomanded size: 728px x 90px"
+msgstr "Рекомендуемый размер: 728px x 90px"
+
+#: inc/class/islemag-banner-control.php:85
+#: inc/class/islemag-banner-control.php:90
+#: inc/class/islemag-banner-control.php:122
+#: inc/class/islemag-banner-control.php:123
+#: inc/class/islemag-widget-multiple-ads.php:216
+#: inc/class/islemag-widget-content-ad.php:194
+#: inc/class/islemag-widget-big-ad.php:225
+#: inc/customizer-repeater/islemag-general-control.php:179
+#: inc/customizer-repeater/islemag-general-control.php:220
+msgid "Link"
+msgstr "Ссылка"
+
+#: inc/class/islemag-banner-control.php:83
+#: inc/class/islemag-banner-control.php:120
+msgid "Upload Image"
+msgstr "Загрузить изображение"
+
+#: inc/class/islemag-banner-control.php:61
+#: inc/class/islemag-banner-control.php:113
+#: inc/class/islemag-widget-multiple-ads.php:243
+#: inc/class/islemag-widget-content-ad.php:222
+#: inc/class/islemag-widget-big-ad.php:250
+msgid "Text"
+msgstr "Текст"
+
+#: inc/class/islemag-banner-control.php:60
+#: inc/class/islemag-banner-control.php:76
+msgid "Recommended size: 728px x 90px"
+msgstr "Рекомендуемый размер: 728px x 90px"
+
+#: inc/class/islemag-banner-control.php:59
+#: inc/class/islemag-banner-control.php:111
+msgid "Banner Code"
+msgstr "Код баннера"
+
+#: inc/class/islemag-banner-control.php:50
+#: inc/class/islemag-banner-control.php:108
+msgid "Right"
+msgstr "Справа"
+
+#: inc/class/islemag-banner-control.php:49
+#: inc/class/islemag-banner-control.php:107
+msgid "Center"
+msgstr "По центру"
+
+#: inc/class/islemag-banner-control.php:48
+#: inc/class/islemag-banner-control.php:106
+msgid "Left"
+msgstr "Слева"
+
+#: inc/class/islemag-banner-control.php:47
+#: inc/class/islemag-banner-control.php:105
+msgid "Banner position"
+msgstr "Положение баннера"
+
+#: inc/class/islemag-banner-control.php:45
+#: inc/class/islemag-banner-control.php:103
+#: inc/class/islemag-widget-multiple-ads.php:205
+#: inc/class/islemag-widget-content-ad.php:174
+#: inc/class/islemag-widget-big-ad.php:205
+msgid "Code"
+msgstr "Код"
+
+#: inc/class/islemag-banner-control.php:44
+#: inc/class/islemag-banner-control.php:75
+#: inc/class/islemag-banner-control.php:102
+#: inc/class/islemag-banner-control.php:117
+#: inc/class/islemag-widget-multiple-ads.php:199
+#: inc/class/islemag-widget-content-ad.php:168
+#: inc/class/islemag-widget-big-ad.php:199
+msgid "Image"
+msgstr "Изображение"
+
+#: inc/class/islemag-banner-control.php:43
+#: inc/class/islemag-banner-control.php:101
+msgid "Banner type"
+msgstr "Тип баннера"
+
+#: header.php:70 header.php:175
+msgid "Skip to content"
+msgstr "Перейти к содержанию"
+
+#: header.php:69 header.php:174
+msgid "Menu"
+msgstr "Меню"
+
+#: inc/extras.php:142
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации."
+
+#: inc/extras.php:123
+msgid "(Edit)"
+msgstr "(Редактировать)"
+
+#. translators: 1- comment author link, 2 - comment date, 3 - comment time
+#: inc/extras.php:121
+msgid "<h4 class=\"media-heading\">%1$s</h4><span class=\"comment-date\">(%2$s - %3$s)</span>"
+msgstr "<h4 class=\"media-heading\">%1$s</h4><span class=\"comment-date\">(%2$s - %3$s)</span>"
+
+#: functions.php:395
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "вкл."
+
+#: functions.php:394
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr "вкл."
+
+#: functions.php:393
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "вкл."
+
+#: functions.php:361
+msgid "collapse child menu"
+msgstr "свернуть дочернее меню"
+
+#: functions.php:360
+msgid "expand child menu"
+msgstr "раскрыть дочернее меню"
+
+#: functions.php:309
+msgid "Footer area 3"
+msgstr "Нижний блок 3"
+
+#: functions.php:306
+msgid "Footer area 2"
+msgstr "Нижний блок 2"
+
+#: functions.php:303
+msgid "Footer area 1"
+msgstr "Нижний блок 1"
+
+#. translators: Number of registered advertisment area
+#: functions.php:284
+msgid "Advertisments area %d"
+msgstr "Рекламный блок %d"
+
+#: functions.php:272
+msgid "Header advertisment area"
+msgstr "Верхний рекламный блок"
+
+#: functions.php:260
+msgid "Sidebar"
+msgstr "Боковая панель"
+
+#: functions.php:217
+msgid "Small Square"
+msgstr "Маленький квадрат"
+
+#: functions.php:216
+msgid "Vertical Rectangle"
+msgstr "Вертикальный прямоугольник"
+
+#: functions.php:215
+msgid "Big Square"
+msgstr "Большой квадрат"
+
+#: functions.php:214
+msgid "Half-page ad"
+msgstr "Реклама на полстраницы"
+
+#: functions.php:213
+msgid "Medium Rectangle"
+msgstr "Средний прямоугольник"
+
+#: functions.php:212
+msgid "3:1 Rectangle"
+msgstr "3:1 прямоугольник"
+
+#: functions.php:211
+msgid "Leaderboard"
+msgstr "Основная панель"
+
+#: functions.php:210
+msgid "Small Advertisement"
+msgstr "Маленькая реклама"
+
+#: functions.php:138
+msgid "Banner"
+msgstr "Баннер"
+
+#: inc/customizer.php:186 functions.php:86
+msgid "Footer"
+msgstr "Футер"
+
+#: functions.php:85
+msgid "Primary"
+msgstr "Основной"
+
+#: functions.php:84
+msgid "Top"
+msgstr "Верх"
+
+#: inc/customizer.php:402 inc/extras.php:59
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/customizer.php:401
+#: inc/customizer-repeater/islemag-general-control.php:56 inc/extras.php:58
+msgid "Islemag"
+msgstr "Islemag"
+
+#. translators: 1 - Theme name , 2 - WordPress link
+#: inc/customizer.php:400 inc/extras.php:57
+msgid "%1$s powered by %2$s"
+msgstr "%1$s создано %2$s"
+
+#: footer.php:91
+msgid "Widgets Area 3"
+msgstr "Блок виджетов 3"
+
+#: footer.php:83
+msgid "Widgets Area 2"
+msgstr "Блок виджетов 2"
+
+#: footer.php:75
+msgid "Widgets Area 1"
+msgstr "Блок виджетов 1"
+
+#: comments.php:111
+msgid "Your Message"
+msgstr "Ваше сообщение"
+
+#: comments.php:111
+msgctxt "noun"
+msgid "Comment"
+msgstr "Комментарий"
+
+#: comments.php:102 comments.php:103
+msgid "Website"
+msgstr "Вебсайт"
+
+#: comments.php:95
+msgid "Your E-mail"
+msgstr "Ваш E-mail"
+
+#: comments.php:94
+msgid "Email"
+msgstr "Email"
+
+#: comments.php:86 comments.php:87
+msgid "Name"
+msgstr "Имя"
+
+#: comments.php:74
+msgid "Comments are closed."
+msgstr "Комментирование закрыто."
+
+#: comments.php:36 comments.php:65
+msgid "Newer Comments"
+msgstr "Следующие комментарии"
+
+#: comments.php:35 comments.php:64
+msgid "Older Comments"
+msgstr "Предыдущие комментарии"
+
+#: comments.php:32 comments.php:61
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#. translators: 1: number of comments, 2: post title
+#: inc/extras.php:85
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s мысль про &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s мыслей про &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s мыслей про &ldquo;%2$s&rdquo;"
+
+#: 404.php:18
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Похоже ничего не найдено по этому пути. Возможно попробуйте одну из ссылок ниже или воспользуйтесь поиском?"
+
+#: 404.php:16
+msgid "Page Not Found"
+msgstr "Страница не найдена"
+
+#: 404.php:15
+msgid "404"
+msgstr "404"
+
+#. Author URI of the theme
+msgid "http://themeisle.com"
+msgstr "http://themeisle.com"
+
+#. Author of the theme
+msgid "Themeisle"
+msgstr "Themeisle"
+
+#. Theme URI of the theme
+msgid "http://themeisle.com/themes/islemag/"
+msgstr "http://themeisle.com/themes/islemag/"
